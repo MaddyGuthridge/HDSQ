@@ -25,4 +25,4 @@ Listed most-recent first.
 * [Queen: Bohemian Rhapsody](./Boehmian%20Rhapsody/)
 * [Tau the Song with 6.28318 Million Notes](./Tau/)
 * [Nightfall, the original black MIDI](./Nightfall/Black%20MIDI/)
-* [Avicii: Wake Me Up]()
+* [Avicii: Wake Me Up](./Wake%20Me%20Up/)
