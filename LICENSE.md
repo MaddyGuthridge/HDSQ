@@ -84,6 +84,21 @@ own version of one of my works, please obey the following conditions:
     * You require that anyone who uploads a play-through or remix of your remix
       also obeys these terms.
 
+## When reacting to my work
+
+Reaction content has a bad reputation. If you intend to react to my work,
+please ensure you are adding your own meaningful commentary. In particular:
+
+* You should provide some form of analysis or critique. If you're not pausing
+  the video to discuss it in detail, you are not reacting, you're just watching
+  and talking at the same time.
+* Preferably, your analysis should be composed of thoughts and ideas you
+  gathered before you hit record. That way it's far more likely that you are
+  adding a meaningful contributions.
+* Ensure that you credit me (and any collaborators) as the original composers
+  of the work, using the same criteria as when uploading a "play-through" of
+  the work.
+
 ## When using my work for any other purposes
 
 * Please contact me to ask for permission first.
@@ -92,6 +107,13 @@ own version of one of my works, please obey the following conditions:
 * Do not use my work to train AI systems.
 * Do not use my work as a part of a commercial or in a commercial work without
   my permission (aside from in the scenarios explicitly permitted above).
+
+## Clarifications of terms
+
+* I reserve the right to update these terms at any time, either to add new
+  clarifications or restrictions.
+* If you are unsure about any of the terms of this license, please contact me,
+  and I will do my best to clarify.
 
 ## Copyright
 
