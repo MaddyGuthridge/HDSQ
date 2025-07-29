@@ -41,3 +41,5 @@ Listed most-recent first.
 * [Regina Spektor: The Call](./The%20Call/)
 * [Greensleeves](./Greensleeves/)
 * [The Black Pearl](./The%20Black%20Pearl/)
+* [Sunrise](./Sunrise/)
+* [Nyx](./Nyx/)
