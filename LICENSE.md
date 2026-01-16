@@ -1,6 +1,6 @@
 # HDSQ MIDI License
 
-Version 1.0, July 28th 2025.
+Version 1.1, January 16th 2026.
 
 ## Preface
 
@@ -31,17 +31,17 @@ awesome! Please ensure that you do all of the following:
     * On your video's "End Screen",
     * Or preferably, both.
 * Ensure that for works created as a collaboration, you feature all authors.
-  For many of my projects, others have tended to drown out blackers I've
-  collaborated with, with their videos just saying "By [author]". I want my
-  collaborative works to be a celebration of the enormous amount of talent in
-  our community, and so having artists I collaborate with be poorly-credited is
-  a detriment to that goal.
-* Ensure your video is your own work. To qualify for this category, the video
-  must be primarily made by you, meaning you must generate the audio and video
+  For many of my projects, uploaders have tended to drown out blackers I've
+  collaborated with, with their videos just saying "By HDSQ". I want
+  collaborative projects I participate in to be a celebration of the enormous
+  amount of talent in our community, and so having artists I collaborate with
+  be poorly-credited is a detriment to that goal.
+* Ensure your video is your own work. To qualify as your own work, the video
+  must be primarily made by you, meaning you must create the audio and video
   yourself. Don't just download one of my own videos and apply some filters.
 * Do not publish your play-through onto music streaming platforms such as
-  Spotify and Apple Music. This can cause copyright issues where I and other
-  creators lose income for our original work.
+  Spotify and Apple Music. This can cause copyright issues leading to me and
+  other creators lose income for our original work.
 
 If you desire, you may enable monetisation on your video provided you have met
 the above conditions. There's no need to compensate me financially if you
@@ -50,25 +50,29 @@ showcase my Black MIDI projects in this way.
 ## When creating a remix of my work
 
 It's incredibly flattering that you want to remix my work! However, I want to
-ensure that my work is not outshone by an imitation when proper credit is not
+ensure that my work is not outshone by an imitation where proper credit is not
 given. Additionally, I don't think it is "cool" to repurpose parts of someone
 else's work without permission. With this in mind, if you wish to create your
 own version of one of my works, please obey the following conditions:
 
 * If the work you are remixing is an arrangement of another song, please do not
   make a remix of my remix. Instead, you should create your own unique
-  arrangement of the song, which is not derived from my work.
-* If the work you are remixing is a collaboration with other creators, please
-  also seek their permission, as well as obeying these terms. Please be
-  respectful, and understand that they have no obligation to permit you to
-  remix the work -- it is as much theirs as it is mine.
+  arrangement of the song, which is not derived from my work. Of course,
+  referencing aspects from my arrangements as a small part of a larger work is
+  fine.
+* If the work you are remixing is a collaboration with other creators, this
+  license only serves as permission from me, and you must seek permission from
+  my collaborator as well before creating your remix. Please be respectful, and
+  understand that they have no obligation to permit you to remix the work --
+  it is as much theirs as it is mine.
 * Ensure that your remix is distinct from the original. It's no fun to make an
   imitation or reinvent the wheel. I want you to do something different.
   Perhaps you could change the style, or use it as a part of a mash-up. There's
   no specific criteria for this, aside from a general "vibe", but I reserve the
   right to take down any project which is not sufficiently distinct from the
   original. If you're unsure, please reach out and I'll happily share my
-  thoughts on your plans.
+  thoughts on your plans. Generally, if your remix features your own creativity
+  as a part of the final product, then it is fine.
 * Do not use any components from my work in your remix. For example, copying
   "note art" or melodies directly is not cool. Your remix will be far more
   unique and fun if you create it from scratch.
@@ -104,9 +108,10 @@ please ensure you are adding your own meaningful commentary. In particular:
 * Please contact me to ask for permission first.
 * Depending on the way in which you intend to use my work, I may request
   financial compensation for your usage.
-* Do not use my work to train AI systems.
+* Do not use my work to train AI systems. This applies to the original MIDI
+  files, as well as any videos and audio produced by playing these MIDI files.
 * Do not use my work as a part of a commercial or in a commercial work without
-  my permission (aside from in the scenarios explicitly permitted above).
+  my permission, aside from in the scenarios explicitly permitted above.
 
 ## Clarifications of terms
 
@@ -124,11 +129,27 @@ please ensure you are adding your own meaningful commentary. In particular:
   accompaniment.
 * For my arrangements of other people's work, I retain the rights to my
   arrangement of the work, and the musical "performance" and video
-  accompaniment.
+  accompaniment. The copyright of the original composition belongs to its
+  respective copyright holder.
 * You shall not take any action which would infringe on my rights over my work,
   aside from actions explicitly permitted above.
+
+## Changelog
+
+Version 1.0 - July 28th 2025
+* Initial version of the license.
+
+Version 1.1 - January 16th 2026
+* General clarifications and minor rephrasings.
+* Clarification on how this license is licensed.
 
 ## Copyright of this license
 
 I dedicate this license to the public domain, under the
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+license. This means that:
+* You are free to apply this license for your own work.
+* You are free to modify this license when using it on your own work, as
+  long as it remains under the same creative commons license.
+* You must not use this license commercially (ie selling it).
+* You must give appropriate credit.
